@@ -1,0 +1,30 @@
+/*
+  nav-footer.scss
+  author: giant ape
+  url: https://github.com/giantape
+*/
+
+$module: '.nav-footer';
+
+#{$module}{
+
+    position: relative;
+
+    &__list-item{
+
+        @extend .list-item;
+        position: absolute;
+        top: 50%;
+        right: 0;
+        margin-top: -90px;
+
+        li{
+
+            display: inline-block;
+            padding: 10px;
+
+        }
+
+    }
+
+}

@@ -1,0 +1,95 @@
+/*
+  color.scss
+  author: giant ape
+  url: https://github.com/giantape
+*/
+
+
+.danger {
+  background: $danger-color;
+  @extend %text-center;
+}
+
+.warning {
+  background: $warning-color;
+  @extend %text-center;
+}
+
+.info {
+  background: $info-color;
+  @extend %text-center;
+}
+.success {
+  background: $success-color;
+  @extend %text-center;
+}
+
+.button {
+  background: $button-color;
+  @extend %text-center
+}
+
+.box {
+  background: $background-box;
+  @extend %text-center
+}
+
+.border-color{
+  background: $border-color;
+  @extend %text-center;
+}
+
+.color_cape_cod{
+  background: $color_cape_cod;
+  @extend %text-center;
+}
+
+.color_oxford_blue{
+  background: $color_oxford_blue;
+  @extend %text-center;
+}
+
+.color_wild_sand{
+  background: $color_wild_sand;
+  @extend %text-center;
+}
+
+.color_outer_space{
+  background: $color_outer_space;
+  @extend %text-center;
+}
+
+.color_scarpa_flow{
+  background: $color_scarpa_flow;
+  @extend %text-center;
+}
+
+.color_east_bay{
+  background: $color_east_bay;
+  @extend %text-center;
+}
+
+.color_dingley{
+  background: $color_dingley;
+  @extend %text-center;
+}
+
+.color_bismark{
+  background: $color_bismark;
+  @extend %text-center;
+}
+
+.color_spicy_mix{
+  background: $color_spicy_mix;
+  @extend %text-center;
+}
+
+.color_kashmir_blue{
+  background: $color_kashmir_blue;
+  @extend %text-center;
+}
+
+.color_sycamore{
+  background: $color_sycamore;
+  @extend %text-center;
+}

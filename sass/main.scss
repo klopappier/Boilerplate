@@ -1,0 +1,19 @@
+/*
+  main.scss
+  author: giant ape
+  url: https://github.com/giantape
+*/
+
+// layout
+@import './inc/variables';
+@import './inc/mixin';
+@import './inc/layout';
+@import './inc/grid';
+//@import './lib/bootstrap-grid';
+@import './inc/color';
+
+//Modules
+//@import 'modules/test';
+@import './modules/icon-font';
+@import './modules/icon-content';
+@import './modules/nav-footer';
